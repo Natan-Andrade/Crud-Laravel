@@ -2,6 +2,11 @@
 
 <h1 align="center">PROJETO CRUD LARAVEL</h1>
 
+<p align="center">
+<a href="./Crud-laravel/BDD.md">BDD</a>
+<a href="./description.md">Descritivo do Projeto</a>
+</p>
+
 <p>
 Este é um projeto <strong>CRUD(acrónimo do inglês Create, Read, Update and Delete)</strong> em Laravel,
 em que crei um bloco de notas simples e intuitivo onde o usuário poderá:
