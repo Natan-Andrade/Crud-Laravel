@@ -4,7 +4,7 @@
 
 <p>
 Este é um projeto <strong>CRUD(acrónimo do inglês Create, Read, Update and Delete)</strong> em Laravel,
-onde crei um bloco de notas simples e intuitivo onde o usuário poderá:
+em que crei um bloco de notas simples e intuitivo onde o usuário poderá:
 
 - Criar anotações;
 - Lê-las;
