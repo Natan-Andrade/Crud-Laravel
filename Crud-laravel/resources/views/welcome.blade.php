@@ -46,7 +46,7 @@
             }
 
             a:hover{
-                color: rgb(0, 0, 0);
+                color: #38598b;
                 text-shadow: 0px 0px 7px rgba(0, 0, 0, 0.171);
                 letter-spacing: 0.5px;
                 transition: 0.7s;
