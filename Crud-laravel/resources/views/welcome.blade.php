@@ -7,7 +7,7 @@
         <h1 class="text-center">NOTEPAD</h1>
 
         <div class="links">
-            <a href="">
+            <a href="{{ route('notes-create') }}">
                 <i class="fa-solid fa-feather-pointed"></i>
                 Create note
             </a>
