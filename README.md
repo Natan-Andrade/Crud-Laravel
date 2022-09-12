@@ -16,6 +16,7 @@ em que crei um bloco de notas simples e intuitivo onde o usuário poderá:
 - Deleta-las;
 
 Este projeto seguirá o seguinte conceito: 
+</br>
 -<a href="./Crud-laravel/README.md">BDD</a>(Behavior Driven Development) que descreverá qual deve ser o comportamento do sistema.
 </p>
 
