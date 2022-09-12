@@ -11,7 +11,7 @@
 - Cenário: "Visualizar anotações"
     - Dado que acesso a página home
     - E seleciono "Minhas Anotações"
-    - Então devo ser redirecionado para a págiona "Notas", onde poderei ler, editar ou Deletarar minhas notas.
+    - Então devo ser redirecionado para a págiona "Notas", onde poderei ler, editar ou Deletar minhas notas.
 
 <h2>Criar Nota</h2>
 
