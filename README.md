@@ -16,10 +16,7 @@ em que crei um bloco de notas simples e intuitivo onde o usuário poderá:
 - Edita-las;
 - Deleta-las;
 
-Este projeto seguirá os seguintes conceitos: 
+Este projeto seguirá o seguinte conceito: 
 - BDD(Behavior Driven Development) que descreverá qual deve ser o comportamento do sistema.
-- TDD(Test Driven Development)  prática de desenvolvimento de software onde a codificação das funcionalidades 
-começa a partir da escrita de testes unitários.
-
 </p>
 
