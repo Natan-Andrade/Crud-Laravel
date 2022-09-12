@@ -9,11 +9,11 @@
         <div class="links">
             <a href="{{ route('notes-create') }}">
                 <i class="fa-solid fa-feather-pointed"></i>
-                Create note
+                Criar Nota
             </a>
             <a href="{{ route('notes-index') }}">
                 <i class="fa-solid fa-book-open"></i>
-                My notes
+                Minhas Anotações
             </a>
         </div><!--link-->
     @endsection
