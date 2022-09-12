@@ -3,8 +3,7 @@
 <h1 align="center">PROJETO CRUD LARAVEL</h1>
 
 <p align="center">
-<a href="./Crud-laravel/BDD.md">BDD</a>
-<a href="./description.md">Descritivo do Projeto</a>
+<a href="./Crud-laravel/README.md">BDD</a>
 </p>
 
 <p>
